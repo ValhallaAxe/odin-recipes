@@ -1,1 +1,1 @@
-This is a collection of recipes I have put together for an assignment given to me by the Odin Project. By the end of this assignment, I will have demonstrated basic HTML website design by creating my own recipe website. It isn't pretty, but it has recipes!
+This is a collection of recipes I have put together for an assignment given to me by The Odin Project. By the end of this assignment, I will have demonstrated basic HTML website design by creating my own recipe website. It isn't pretty, but it has recipes!

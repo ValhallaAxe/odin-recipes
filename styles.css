@@ -1,0 +1,31 @@
+* {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 16px;
+}
+
+a {
+    color: #5a8d2a;
+}
+
+ul{
+    list-style-type: square;
+}
+
+h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 36px;
+    color: #424242;
+}
+
+h2 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 28px;
+    font-style: italic;
+    font-weight: normal;
+    color: #424242;
+}
+
+.preview {
+    width: 600px;
+    height: auto;
+}
